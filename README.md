@@ -10,6 +10,10 @@ Ethical AI in the healthcare by enabling access to Ayurvedic solutions to patien
 ### Deployment Tool
 Intel Developer Cloud (IDC)
 
+## Complete Project Explanation (Video)
+https://www.youtube.com/watch?v=prI-1bCpIPQ
+
+
 ### Brief of the prototype project
 
 The chatbot system detects the disease (currently limited disease like cold, fever, acidity, constipation, asthma, etc. are supported) based on the user’s prompt and suggest the best available resource/medicine from Ayurveda.
