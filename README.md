@@ -1,8 +1,9 @@
 # Team Name - Ayur Squad
-## Probelem Category
+## Problem Category
 Ethical AI in the healthcare
 
-## Problem Statement -  Ethical AI in the healthcare by enabling access to Ayurvedic solutions to patients' illness through chatbot system.
+## Problem Statement 
+Ethical AI in the healthcare by enabling access to Ayurvedic solutions to patients' illness through chatbot system.
 
 ## Team Leader - Pawan Kumar (pawangugm@gmail.com)
 
